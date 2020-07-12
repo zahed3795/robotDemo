@@ -37,7 +37,6 @@ Launch URL
     Convert To String    ${Title}
     Should Be Equal    ${Title}    	${Expected_Title}
     
-
 Close Current Browser
     [Documentation]    Only close current browser
     Close Browser
