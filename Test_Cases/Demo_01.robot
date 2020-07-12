@@ -23,7 +23,11 @@ Test Teardown     Close Current Browser
 HMS Test 00: Test demo
    [Documentation]    <----Demo test---->
    [Tags]     foundbug     smoke
-    Log To Console    hello world    
-       
+    Log To Console    hello world 
+    
+HMS Test 02: Test demo
+   [Documentation]    <----Demo fail test---->
+   [Tags]     foundbug     smoke  
+   Clear Element    fail      
 
        
