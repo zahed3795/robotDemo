@@ -20,10 +20,9 @@ Test Setup      Launch URL
 Test Teardown     Close Current Browser
    
 *** Test Cases ***
-HMS Test 00: Test demo
-   [Documentation]    <----Demo test---->
-   [Tags]     foundbug     smoke
-    Log To Console    hello world    
-       
-
-       
+HMS Test 01: Test demo 
+    [Documentation]    Get current time
+    [Tags]    smoke
+    ${date}    Get Current Date    
+    Log To Console    ${date}    
+    
