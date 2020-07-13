@@ -18,6 +18,8 @@ Library         Screenshot
 Resource        ../WebDrivers/driver.robot
 #Library         DataDriver        ..\Test_Data\credentials.xlsx    sheet_name=credentials
 *** Keywords ***
+log
+    Log To Console    gg    
 
 
 
