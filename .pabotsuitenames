@@ -1,5 +1,6 @@
-datasources:8cca87342a156d23186899016d04819a8f9c077c
-commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+datasources:0d4edf32e3491194bfb08fece8f2548e60f10949
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
 suitesfrom:no-suites-from-option
-file:6ee03fd64cfd0c4364eb6c8f619c3f8ada7f4185
---suite Demo 01
+file:642f02568c49ff4b1649c0e420c2d2fc2cf288ee
+--suite Suites.Demo 01
+--suite Suites.Demo 02

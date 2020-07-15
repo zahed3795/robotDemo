@@ -28,7 +28,8 @@ HMS Test 00: Test demo
 HMS Test 02: Test demo
    [Documentation]    <----Demo fail test---->
    [Tags]     foundbug     smoke  
-   Log To Console    wellcome        
+   Log To Console    wellcome  
+         
 
        
 #C:\Users\zahed\OneDrive\Documents\robot\robotDemo\advanced_execution\jenkins_run.bat
